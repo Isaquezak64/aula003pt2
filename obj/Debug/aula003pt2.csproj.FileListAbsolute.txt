@@ -1,0 +1,11 @@
+C:\Users\Public\source\repos\aula003pt2\aula003pt2\bin\Debug\aula003pt2.exe.config
+C:\Users\Public\source\repos\aula003pt2\aula003pt2\bin\Debug\aula003pt2.exe
+C:\Users\Public\source\repos\aula003pt2\aula003pt2\bin\Debug\aula003pt2.pdb
+C:\Users\Public\source\repos\aula003pt2\aula003pt2\obj\Debug\aula003pt2.csproj.AssemblyReference.cache
+C:\Users\Public\source\repos\aula003pt2\aula003pt2\obj\Debug\aula003pt2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\source\repos\aula003pt2\aula003pt2\obj\Debug\aula003pt2.Form1.resources
+C:\Users\Public\source\repos\aula003pt2\aula003pt2\obj\Debug\aula003pt2.Properties.Resources.resources
+C:\Users\Public\source\repos\aula003pt2\aula003pt2\obj\Debug\aula003pt2.csproj.GenerateResource.cache
+C:\Users\Public\source\repos\aula003pt2\aula003pt2\obj\Debug\aula003pt2.csproj.CoreCompileInputs.cache
+C:\Users\Public\source\repos\aula003pt2\aula003pt2\obj\Debug\aula003pt2.exe
+C:\Users\Public\source\repos\aula003pt2\aula003pt2\obj\Debug\aula003pt2.pdb
